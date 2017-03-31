@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 /*CSS Comment
@@ -77,3 +78,83 @@ body{
 
 
 
+=======
+
+
+/*CSS Comment
+
+*Multi-line starts with astrik
+
+*/
+
+
+
+/*Body Styles */
+/* Color scheme:
+
+http://colorhunt.co/c/66816
+
+#233142:RGBA color is 35 49 66
+
+#455D7A:RGBA color is 69 93 122
+
+#F95959:RGBA color is 249 89 89
+
+#E3E3E3:RGBA color 227 227 227
+*/
+
+
+html ,
+
+body{
+
+        background: #233142; /* Background color */
+
+        font-family: "Lucida Console", "Courier New", monospace; /* Set the font for t*/
+
+}
+#container{
+    background: #233142;
+    width: 100%
+    }
+#header{
+     background: #233142;
+    }
+#logo{
+    background: #233142;
+    }
+#hrseparator{
+    background: #455D7A;
+    width: 100%
+    }
+#mainbody{
+    background: #233142
+    }
+#navigation{
+    background: #455D7A;
+    }
+#links{
+    background: #455D7A;
+
+    color: rgba(249, 89, 89, 0.5);
+    hover: #F95959;
+    }
+#socialmedia{
+    background: #E3E3E3;
+    color: #233142;
+    }
+    #footer{
+        background: #E3E3E3;
+        color: #233142;
+    }
+
+
+
+
+
+
+
+
+
+
+>>>>>>> Stylesheetedits
